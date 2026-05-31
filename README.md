@@ -1,3 +1,32 @@
+# UDP Multiplayer Card Game
+
+A real-time multiplayer card game developed in Java using UDP sockets and Swing.
+
+The application implements a client-server architecture where players connect to a central game server, exchange cards in real time, and compete to complete a four-of-a-kind hand before other players react.
+
+Originally developed as a team project for CMSC 137 (Data Communications and Networking) at the University of the Philippines Los Baños.
+
+## Technologies Used
+
+- Java
+- Java Swing
+- UDP Sockets
+- Client-Server Architecture
+- Custom Application-Layer Protocol
+
+## Features
+
+- Real-time multiplayer gameplay
+- UDP-based client-server communication
+- Custom game networking protocol
+- Automatic card distribution and shuffling
+- Multiplayer card exchange mechanics
+- Four-of-a-kind win detection
+- Endgame reaction ranking system
+- Desktop graphical user interface built with Swing
+
+---
+
 ![alt text](https://github.com/IvanDacquel/LEZDODISBOIS/blob/master/GameFiles/PNG-photos/LOGO.png "GAME")<br />
 
 ## Members
